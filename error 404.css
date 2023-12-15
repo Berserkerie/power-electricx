@@ -1,0 +1,41 @@
+.container{
+    width: 100%;
+    height: 1000px;
+    margin: 90px solid;
+    /* outline: 3px solid; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.item{
+    width: 100%;
+    height: 100%;
+    background-color: #FFA818;
+}
+
+.text1{
+    margin-top: 100px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.text2{
+    text-align: center;
+    color: aliceblue;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.img{
+    width: 15%;
+    margin-left: 42%;
+}
+.inicio{
+    margin-left: 45%;
+    color: aliceblue;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
